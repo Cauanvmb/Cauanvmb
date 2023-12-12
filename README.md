@@ -1,13 +1,12 @@
-<center>
 
 # <span style="font-size:larger;">👋 Hi, I’m @Cauanvmb
 </span>
 
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanvmb&show_progress=true&theme=dracula)
 
 ![Cauanvmb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanvmb&show_icons=true&theme=dracula)
-
+</center>
 
 # <span style="font-size:larger;">Conections...
 </span>
@@ -25,7 +24,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="70" height="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="70" height="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="70" height="70">
-
 <br>
 <br>
 <br>
@@ -50,7 +48,3 @@
 
 
 ![Alt Text](https://media.tenor.com/nmqaZE4m2GwAAAAC/hidenori-tabata-glasses.gif)
-
-
-
-
